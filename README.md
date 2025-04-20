@@ -31,8 +31,17 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![DS exp 3 ipynb - Colab_page-0001](https://github.com/user-attachments/assets/76f69589-f93b-46a7-ba85-e6025bc0a293)
+![DS exp 3 ipynb - Colab_page-0002](https://github.com/user-attachments/assets/7c24386e-e00f-4073-91cd-1a2f7adea8a3)
+![DS exp 3 ipynb - Colab_page-0003](https://github.com/user-attachments/assets/8af451ab-e016-49e1-815f-9062c1fa10d0)
+![DS exp 3 ipynb - Colab_page-0004](https://github.com/user-attachments/assets/7a7bb255-4689-4dd7-815a-efb8a98a3347)
+![DS exp 3 ipynb - Colab_page-0005](https://github.com/user-attachments/assets/e5f781a0-a061-4e25-a0e1-41d471dff8dd)
+![DS exp 3 ipynb - Colab_page-0006](https://github.com/user-attachments/assets/05f169d9-cf81-4701-8227-96295dc96172)
+![DS exp 3 ipynb - Colab_page-0007](https://github.com/user-attachments/assets/aade151d-34de-4694-9a86-dbb89e7c9954)
+![DS exp 3 ipynb - Colab_page-0008](https://github.com/user-attachments/assets/88c405c3-e3a4-4eb4-8af5-a486acd809d2)
+![DS exp 3 ipynb - Colab_page-0009](https://github.com/user-attachments/assets/fa2fc989-3ac7-441a-b74b-2a3d166f2aee)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus we have read and performed Feature Encoding and Transformation process and save the data to a file
 
        
